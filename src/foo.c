@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include "funcs.h"
-void foo(){
-printf("Foo");
+int foo(){
+printf("Hello foo world \n");
+printf("good bye~\n");
 }
